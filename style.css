@@ -1,0 +1,22 @@
+/* cascading style sheet */
+
+/* using style tags */
+/* using inline css */
+/* using external style */
+body {
+  font-family: "Montserrat";
+}
+section {
+  margin-top: 30px;
+}
+button {
+  padding: 10px;
+  border: none;
+  background-color: #1a1a1a;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.fa-user {
+  margin-top: 20px;
+}
